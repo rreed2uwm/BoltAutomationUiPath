@@ -1014,7 +1014,7 @@
         </Sequence>
       </ui:InterruptibleWhile.Body>
       <ui:InterruptibleWhile.Condition>
-        <mva:VisualBasicValue x:TypeArguments="x:Boolean" ExpressionText="Counter&lt;5" />
+        <mva:VisualBasicValue x:TypeArguments="x:Boolean" ExpressionText="Counter&lt;6" />
       </ui:InterruptibleWhile.Condition>
     </ui:InterruptibleWhile>
   </Sequence>
